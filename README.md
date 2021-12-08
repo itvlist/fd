@@ -2,7 +2,7 @@
 
 Evade internet censorship!
 
-The original nodeunblocker.com is gone, but it's now easier than ever to deploy your own copy.
+
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itvlist/fd)
 [![Deploy to Bluemix](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/itvlist/fd)
@@ -44,4 +44,4 @@ The the core of the nodeunblocker.com has been extracted into a [standalone libr
 
 This project is released under the terms of the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-All source code is copyright [Nathan Friedly](http://dwz.freetzi.com/blog).
+All source code is copyright [itv/fd](http://dwz.freetzi.com/blog).
